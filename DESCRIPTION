@@ -20,3 +20,5 @@ Suggests:
     testthat
 LinkingTo: 
     Rcpp
+URL: https://github.com/privefl/minidplyr3
+BugReports: https://github.com/privefl/minidplyr3/issues

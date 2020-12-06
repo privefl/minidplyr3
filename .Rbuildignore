@@ -3,3 +3,7 @@
 ^code-save$
 ^\.travis\.yml$
 ^\.github$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^codecov\.yml$

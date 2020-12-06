@@ -16,9 +16,12 @@ RoxygenNote: 7.1.1
 Imports: 
     dplyr,
     Rcpp
-Suggests: 
-    testthat
+Suggests:
+    spelling,
+    testthat,
+    covr
 LinkingTo: 
     Rcpp
 URL: https://github.com/privefl/minidplyr3
 BugReports: https://github.com/privefl/minidplyr3/issues
+Language: en-US

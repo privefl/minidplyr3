@@ -1,0 +1,10 @@
+Package: minidplyr3
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.1
+Authors@R: 
+    person("Florian", "Privé", , "florian.prive.21@gmail.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
